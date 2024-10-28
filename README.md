@@ -1,4 +1,5 @@
 Bank Marketing Analysis 📊
+
 This project provides an analysis of bank marketing campaigns based on a publicly available dataset from Kaggle, using Streamlit for interactive visualizations. The dataset includes details about various bank marketing campaigns, customer demographics, and outcomes, enabling us to explore patterns, customer segments, and factors influencing campaign success.
 
 Key Features 🔍
